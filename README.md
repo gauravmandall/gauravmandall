@@ -1,16 +1,18 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Gaurav Mandal</h1>
-<h3 align="center">I'm a Android Developer and a Web3 Learner.</h3>
+<h1 align="center">Hi 👋, I'm Gaurav Mandal</h1>
+<h3 align="center">I'm a Android Developer and a DevOps learner.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 👨🏽‍💻 I'm currently learning WEB3 & Android
+- 👨🏽‍💻 I'm currently learning DevOps & OOPS 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Github Account](https://github.com/gauravmandall)**
 
-- 📫 You can reach me at **mandalgaurav550@gmail.com**
+- 📫 You can reach me at **mandalgaurav550@gmail.com** or [Let's get in touch!][linkedin]
+
+- 🧗 I try to: Go beyond and push the bounds
 
 - ⚡ Fun fact **I love reading books and Playing Chess.**
 
@@ -62,3 +64,5 @@
     <img src="https://komarev.com/ghpvc/?username=gauravmandall">
 </a>
 <a href="https://github.com/gauravmandall?tab=followers"><img src="https://img.shields.io/github/followers/gauravmandall?label=Followers&style=social" alt="GitHub Badge"></a>
+[instagram]: https://instagram.com/gaurav.mandall
+[linkedin]: https://www.linkedin.com/in/gauravmandall/
