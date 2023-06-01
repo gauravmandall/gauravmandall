@@ -53,17 +53,6 @@
 <br/>
 <br/>
 
-<!-- repos
-<a href="https://github.com/gauravmandall/gauravmandall">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravmandall&repo=gauravmandall&theme=dark" />
-</a>
-<a href="https://github.com/gauravmandall/DisneyPlusGaurav">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravmandall&repo=DisneyPlusGaurav&theme=dark" />
-</a>
-<a href="https://github.com/gauravmandall/codex">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=gauravmandall&repo=codex&theme=dark" />
-</a> -->
-
 
 ![Gaurav's Last 30 Days Github Activity Graph](https://gaurav-github-readme-activity-graph.vercel.app/graph?username=gauravmandall&theme=tokyo-night)
 
