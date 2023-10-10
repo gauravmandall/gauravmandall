@@ -1,5 +1,10 @@
-# Sup dawg? <img src="https://github.com/gauravmandall/gauravmandall/blob/main/Assets/Hi.gif" width="29px"> I'm [Gaurav!](https://www.google.com/search?q=gauravmandall) 
-<h3 align="center">I'm a Android Developer and a DevOps learner.</h3>
+
+Sup dawg? 
+<img alt="GIF" src="https://github.com/gauravmandall/gauravmandall/blob/main/Assets/Hi.gif" width="29px">
+ 
+# I'm [Gaurav!](https://www.google.com/search?q=gauravmandall) 
+
+<h3 align="center">I'm a Ex-Android Developer and now learning AI & DevOps.</h3>
 
 <p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
