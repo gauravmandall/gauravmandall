@@ -67,7 +67,7 @@ Sup dawg?
 <p align="left">
 <a href = "https://www.linkedin.com/in/gauravmandall/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href = "https://twitter.com/gauravmandall"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>&nbsp;
-<a href = "mailto:mandalgaurav550@gmail.com?subject=Hola%20Gaurav"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href = "mailto:contact.gauravmandall@gmail.com?subject=Hola%20Gaurav"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <a href = "https://www.instagram.com/gaurav.mandall/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 </p>
 
