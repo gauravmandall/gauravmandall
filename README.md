@@ -15,7 +15,7 @@ Sup dawg?
     
 ## 🙋‍♂️ About Me
 
-- <img alt="GIF" src="https://github.com/gauravmandall/gauravmandall/blob/main/Assets/wave.gif" width="20px" /> I'm currently *learning* **DevOps** & **OOPS** 
+- <img alt="GIF" src="https://github.com/gauravmandall/gauravmandall/blob/main/Assets/wave.gif" width="20px" /> I'm currently *learning* **DevOps** & **AI** 
 - <img alt="GIF" src="https://github.com/gauravmandall/gauravmandall/blob/main/Assets/gandalf_parrot.gif" width="20px" /> I’m looking to collaborate on **OpenSource Projects**
 - <img alt="GIF" src="https://github.com/gauravmandall/gauravmandall/blob/main/Assets/headbang.gif" width="20px" /> All of my projects are available at **[My Github Account](https://github.com/gauravmandall?tab=repositories)**
 - <img alt="GIF" src="https://github.com/gauravmandall/gauravmandall/blob/main/Assets/Handshake.gif" width="20px" /> You can reach me at [linkedin!][linkedin] or send me a personalized **<a href="mailto:mandalgaurav550@gmail.com?subject=Hola%20Gaurav">mail</a>** 
