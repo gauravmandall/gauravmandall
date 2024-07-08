@@ -18,7 +18,7 @@ Sup dawg?
 - <img alt="GIF" src="https://github.com/gauravmandall/gauravmandall/blob/main/Assets/wave.gif" width="20px" /> I'm currently *learning* **DevOps** & **AI** 
 - <img alt="GIF" src="https://github.com/gauravmandall/gauravmandall/blob/main/Assets/gandalf_parrot.gif" width="20px" /> I’m looking to collaborate on **OpenSource Projects**
 - <img alt="GIF" src="https://github.com/gauravmandall/gauravmandall/blob/main/Assets/headbang.gif" width="20px" /> All of my projects are available at **[My Github Account](https://github.com/gauravmandall?tab=repositories)**
-- <img alt="GIF" src="https://github.com/gauravmandall/gauravmandall/blob/main/Assets/Handshake.gif" width="20px" /> You can reach me at [linkedin!][linkedin] or send me a personalized **<a href="mailto:mandalgaurav550@gmail.com?subject=Hola%20Gaurav">mail</a>** 
+- <img alt="GIF" src="https://github.com/gauravmandall/gauravmandall/blob/main/Assets/Handshake.gif" width="20px" /> You can reach me at [linkedin!][linkedin] or send me a personalized **<a href="mailto:gaurav@gorlabs.com?subject=Hola%20Gaurav">mail</a>** 
 - <img alt="GIF" src="https://github.com/gauravmandall/gauravmandall/blob/main/Assets/happy.gif" width="20px" /> I try to: Go beyond and push the bounds
 - <img alt="GIF" src="https://github.com/gauravmandall/gauravmandall/blob/main/Assets/Rocket.gif" width="20px" /> Fun fact **I love reading books and Building stuff.**
 
