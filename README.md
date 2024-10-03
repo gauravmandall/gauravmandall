@@ -1,81 +1,128 @@
+[![Actions Status](https://github.com/gauravmandall/gauravmandall/workflows/wakatime-stats/badge.svg)](https://github.com/gauravmandall/gauravmandall/actions)
+[![Actions Status](https://github.com/gauravmandall/gauravmandall/workflows/update-gh-activity/badge.svg)](https://github.com/gauravmandall/gauravmandall/actions)
 
-Sup dawg? 
-<img alt="GIF" src="https://github.com/gauravmandall/gauravmandall/blob/main/Assets/Hi.gif" width="29px">
- 
-# I'm [Gaurav!](https://www.google.com/search?q=gauravmandall) 
 
-<h3 align="center">I'm a Ex-Android Developer and now learning AI & DevOps.</h3>
+
+
+<pre>
+      ___           ___           ___       ___       ___
+     /\__\         /\  \         /\__\     /\__\     /\  \
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  /
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /
+     \/__/         \/__/         \/__/     \/__/     \/__/
+</pre>
+
+
+
+
+<!-- <p align="center">
+<img alt="loficity" width="600px" src="https://github.com/HyunCafe/HyunCafe/raw/main/assests/loficity.gif"</img>
+</p> -->
+
+
+<!-- <p align="center">
+  <img src="https://socialify.git.ci/gauravmandall/gauravmandall/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="gauravmandall" width="700" height="300" />
+</p> -->
+
+
+<img align="left" src="assets/crow.png">
+
+<br>
+
+I'm **Gaurav**, a Rust enthusiast with a passion for open source and solid skills in TypeScript. I'm currently a beginner in Rust.
+
+[![pgp](https://img.shields.io/badge/pgp-BFBE0103C5E01D9D-313131?style=flat&labelColor=545454&color=313131)](https://github.com/gauravmandall.gpg) [![views](https://komarev.com/ghpvc/?username=gauravmandall&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/gauravmandall)
+
+
+<br>
+
+
+Ever since I joined GitHub **{{ ACCOUNT_AGE }}** years ago, I pushed **{{ COMMITS }}** commits, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+
+<!--
+  WARNING 🔔🚨🚨🚨🚨🚨🚨🚨🔔
+  Please think twice before BLINDLY COPYING my profile readme.
+  Design your own that suit your needs and personality! Or well,
+  at least remember to change the name, project, shell,
+  etc!
+-->
+
+<!-- <h1 align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmx5c2N1N2lkbjg5NnI3ajI2ZXhxZ24yZ3cxcmJibTZrMWZkbjlxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AFdcYElkoNAUE/giphy.webp" width="70">, I'm <b>Gaurav!<b/> </h1> -->
+
+
+
+
+Here is a list of my **personal projects**:
+
+| **Rust**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **Bash**, **Typescript**, **Go**, **Python**, **Kotlin**, **Java**, **JS**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| • [flx](https://github.com/gauravmandall/flx) - A highly secure file sharing app (upcoming)<br>• [shelly](https://github.com/gauravmandall/shelly) - A TUI for tracking cryptocurrencies like a boss (upcoming)<br>• [vsnode](https://github.com/gauravmandall/vsnode) - Fast and intuitive text editor (upcoming)<br>• [gpgtui](https://github.com/gauravmandall/gpgtui) - Terminal user interface for GnuPG (upcoming)<br>• [solcon](https://github.com/gauravmandall/solcon) - A minimal blockchain dex (upcoming) | • [gorlabs](https://github.com/gorlabscom/gorlabs) - A microsaas platform to ship fast.<br>• [vid-paywall](https://github.com/gauravmandall/vid-paywall) - Video paywall system to prevent piracy.<br>• [saasmd](https://www.npmjs.com/package/saasmd) - A TUI for kickstart the NextJs projects.<br>• [nimble-search](github.com/gauravmandall/nimble-search) - An AI search engine inspired by perplexity (upcoming)<br>• [geohot](https://github.com/gauravmandall/geohot) - A web3 wallet generator using bip39 and Mnemonics.<br>• [cctvAi](https://github.com/gauravmandall/cctvAi) - AI camera app to detect humans and record them.<br>• [fullstack-auth](https://github.com/gauravmandall/fullstack-auth) - An extended authentication project for auth.js<br> |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br/>
+
+
+
+**:zap: Recent Activity:**
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<!--START_SECTION:waka-simple-->
+<!--END_SECTION:waka-simple-->
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+For all my latest updates, follow me on [X](https://x.com/gauravmandall). If you have **job-related** inquiries, please don't hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/gauravmandall/).
+
+If you want to support my work, consider [sponsoring me](https://github.com/sponsors/gauravmandall)! 💖
+
+**~** [_gauravmandall.vercel.app_](https://gauravmandall.vercel.app/)
+
+
+[![activity graph](https://gaurav-github-readme-activity-graph.vercel.app/graph?username=gauravmandall&theme=tokyo-night&custom_title=Gaurav's%20Activity%20Graph&hide_border=true)](https://github.com/gauravmandall/github-github-readme-activity-graph)
 
 <p align="center">
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=gauravmandall">
-</a>
-<a href="https://github.com/gauravmandall?tab=followers"><img src="https://img.shields.io/github/followers/gauravmandall?label=Followers&style=social" alt="GitHub Badge"></a>
+  <img alig src="https://github-profile-trophy.vercel.app/?username=gauravmandall&theme=onedark&column=-1" />
 </p>
-    
-## 🙋‍♂️ About Me
 
-- <img alt="GIF" src="https://github.com/gauravmandall/gauravmandall/blob/main/Assets/wave.gif" width="20px" /> I'm currently *learning* **DevOps** & **AI** 
-- <img alt="GIF" src="https://github.com/gauravmandall/gauravmandall/blob/main/Assets/gandalf_parrot.gif" width="20px" /> I’m looking to collaborate on **OpenSource Projects**
-- <img alt="GIF" src="https://github.com/gauravmandall/gauravmandall/blob/main/Assets/headbang.gif" width="20px" /> All of my projects are available at **[My Github Account](https://github.com/gauravmandall?tab=repositories)**
-- <img alt="GIF" src="https://github.com/gauravmandall/gauravmandall/blob/main/Assets/Handshake.gif" width="20px" /> You can reach me at [linkedin!][linkedin] or send me a personalized **<a href="mailto:gaurav@gorlabs.com?subject=Hola%20Gaurav">mail</a>** 
-- <img alt="GIF" src="https://github.com/gauravmandall/gauravmandall/blob/main/Assets/happy.gif" width="20px" /> I try to: Go beyond and push the bounds
-- <img alt="GIF" src="https://github.com/gauravmandall/gauravmandall/blob/main/Assets/Rocket.gif" width="20px" /> Fun fact **I love reading books and Building stuff.**
+Liked it ?
 
-## 🚀 Languages and Tools:
+*ERC-20 / EVM: **0x229039E9dE6c76b8634D00A3C2A4e10Ec8e60341***
 
-<p align="left">
-    
-<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="java" width="35px" src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png" />
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="tailwind" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
-<img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="git-scm" width="35px" src="https://img.icons8.com/color/48/000000/git.png" />
-    <img align="left" alt="android" width="35px" src="https://img.icons8.com/fluency/48/000000/android-os.png" />
-    <img align="left" alt="firebase" width="35px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png" />
-    <img align="left" alt="figma" width="35px" src="https://img.icons8.com/color/48/000000/figma--v2.png" />
-</p>
-<br/>
-<br/>
-<p align="center"><a href="https://github.com/gauravmandall/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gaurav Mandal's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravmandall&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</a></p>
-
-## :zap: My Github Stats
-
-  <br/>
-    <a href="https://github.com/gauravmandall/github-readme-stats"><img alt="Gaurav Mandal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gauravmandall&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/gauravmandall/github-readme-stats"><img alt="Gaurav Mandal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravmandall&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-
-![Gaurav's Last 30 Days Github Activity Graph](https://gaurav-github-readme-activity-graph.vercel.app/graph?username=gauravmandall&theme=tokyo-night)
-
-
-
-## Connect with me:
-<p align="left">
-<a href = "https://www.linkedin.com/in/gauravmandall/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href = "https://twitter.com/gauravmandall"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>&nbsp;
-<a href = "mailto:contact.gauravmandall@gmail.com?subject=Hola%20Gaurav"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href = "https://www.instagram.com/gaurav.mandall/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-</p>
+*BTC: **bc1qsuxuyedeuct2u6cdrvpacwrhkfseysrex8alrn***
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div>
 
-
-
-[instagram]: https://instagram.com/gaurav.mandall
-[linkedin]: https://www.linkedin.com/in/gauravmandall/
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
