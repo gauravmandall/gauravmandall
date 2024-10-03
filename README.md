@@ -92,6 +92,46 @@ Here is a list of my **personal projects**:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 1.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 1,459 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 116 Public Repositories 
+ > 
+> 🔑 31 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                85 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+🌆 Daytime                148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+🌃 Evening                225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+🌙 Night                  1625 commits        ████████████████████░░░░░   78.01 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 03/10/2024 12:37:21 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
