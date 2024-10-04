@@ -97,15 +97,13 @@ Here is a list of my **personal projects**:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.2 MB Used in GitHub's Storage 
  > 
-> 🏆 1,459 Contributions in the Year 2024
+> 🏆 1,461 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -116,10 +114,10 @@ Here is a list of my **personal projects**:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                85 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-🌆 Daytime                148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-🌃 Evening                225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-🌙 Night                  1625 commits        ████████████████████░░░░░   78.01 % 
+🌞 Morning                87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+🌆 Daytime                148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+🌃 Evening                227 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+🌙 Night                  1625 commits        ███████████████████░░░░░░   77.86 % 
 ```
 
 
@@ -129,14 +127,15 @@ Here is a list of my **personal projects**:
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     52 mins             █████████████████░░░░░░░░   67.23 % 
+Markdown                 25 mins             ████████░░░░░░░░░░░░░░░░░   32.77 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+portfolio                1 hr 17 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/10/2024 12:37:21 UTC
+ Last Updated on 04/10/2024 12:36:51 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
