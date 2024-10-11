@@ -43,7 +43,7 @@ I'm **Gaurav**, a Rust enthusiast with a passion for open source and solid skill
 <br>
 
 
-Ever since I joined GitHub **4** years ago, I pushed **2117** commits, opened **18** issues, submitted **43** pull requests, received **18** stars across **65** personal projects, and contributed to **9** public repositories.
+Ever since I joined GitHub **4** years ago, I pushed **2125** commits, opened **18** issues, submitted **45** pull requests, received **18** stars across **65** personal projects, and contributed to **9** public repositories.
 
 <!--
   WARNING 🔔🚨🚨🚨🚨🚨🚨🚨🔔
@@ -62,7 +62,7 @@ Here is a list of my **personal projects**:
 
 | **Rust**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **Bash**, **Typescript**, **Go**, **Python**, **Kotlin**, **Java**, **JS**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| • [flx](https://github.com/gauravmandall/flx) - A highly secure file sharing app (upcoming)<br>• [shelly](https://github.com/gauravmandall/shelly) - A TUI for tracking cryptocurrencies like a boss (upcoming)<br>• [vsnode](https://github.com/gauravmandall/vsnode) - Fast and intuitive text editor (upcoming)<br>• [gpgtui](https://github.com/gauravmandall/gpgtui) - Terminal user interface for GnuPG (upcoming)<br>• [solcon](https://github.com/gauravmandall/solcon) - A minimal blockchain dex (upcoming) | • [gorlabs](https://github.com/gorlabscom/gorlabs) - A microsaas platform to ship fast.<br>• [vid-paywall](https://github.com/gauravmandall/vid-paywall) - Video paywall system to prevent piracy.<br>• [saasmd](https://www.npmjs.com/package/saasmd) - A TUI for kickstart the NextJs projects.<br>• [nimble-search](https://github.com/gauravmandall/nimble-search) - An AI search engine inspired by perplexity (upcoming)<br>• [geohot](https://github.com/gauravmandall/geohot) - A web3 wallet generator using bip39 and Mnemonics.<br>• [cctvAi](https://github.com/gauravmandall/cctvAi) - AI camera app to detect humans and record them.<br>• [fullstack-auth](https://github.com/gauravmandall/fullstack-auth) - An extended authentication project for auth.js<br> |
+| • [flx](https://github.com/gauravmandall/flx) - A highly secure file sharing app (upcoming)<br>• [shelly](https://github.com/gauravmandall/shelly) - A TUI for tracking cryptocurrencies like a boss (upcoming)<br>• [vsnode](https://github.com/gauravmandall/vsnode) - Fast and intuitive text editor (upcoming)<br>• [gpgtui](https://github.com/gauravmandall/gpgtui) - Terminal user interface for GnuPG (upcoming)<br>• [solcon](https://github.com/gauravmandall/solcon) - A minimal blockchain dex (upcoming) | • [gorlabs](https://github.com/gorlabscom/gorlabs) - A microsaas platform to ship fast.<br>• [vid-paywall](https://github.com/gauravmandall/vid-paywall) - Video paywall system to prevent piracy.<br>• [saasmd](https://www.npmjs.com/package/saasmd) - A TUI for kickstart the NextJs projects.<br>• [nimble-search](github.com/gauravmandall/nimble-search) - An AI search engine inspired by perplexity (upcoming)<br>• [geohot](https://github.com/gauravmandall/geohot) - A web3 wallet generator using bip39 and Mnemonics.<br>• [cctvAi](https://github.com/gauravmandall/cctvAi) - AI camera app to detect humans and record them.<br>• [fullstack-auth](https://github.com/gauravmandall/fullstack-auth) - An extended authentication project for auth.js<br> |
 
 
 
@@ -97,54 +97,54 @@ Here is a list of my **personal projects**:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2014%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.4%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 1.2 MB Used in GitHub's Storage 
- > 
-> 🏆 1,502 Contributions in the Year 2024
- > 
+> 📦 1.2 MB Used in GitHub's Storage
+ >
+> 🏆 1,467 Contributions in the Year 2024
+ >
 > 💼 Opted to Hire
- > 
-> 📜 119 Public Repositories 
- > 
-> 🔑 31 Private Repositories 
- > 
-**I'm a Night 🦉** 
+ >
+> 📜 118 Public Repositories
+ >
+> 🔑 31 Private Repositories
+ >
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                85 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-🌆 Daytime                149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-🌃 Evening                240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-🌙 Night                  1628 commits        ███████████████████░░░░░░   77.45 % 
+🌞 Morning                87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+🌆 Daytime                146 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+🌃 Evening                218 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 %
+🌙 Night                  1624 commits        ████████████████████░░░░░   78.27 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-TypeScript               11 hrs 55 mins      ██████████████████░░░░░░░   70.84 % 
-JSON                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-YAML                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-CSS                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Lua                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+💬 Programming Languages:
+YAML                     52 mins             ██████░░░░░░░░░░░░░░░░░░░   24.23 %
+Lua                      43 mins             █████░░░░░░░░░░░░░░░░░░░░   20.19 %
+Other                    37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 %
+Markdown                 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
+TypeScript               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
 
-🐱‍💻 Projects: 
-gorlabs                  11 hrs              ████████████████░░░░░░░░░   65.40 % 
-eldoraui                 2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-portfolio                1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-Unknown Project          1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-nvim                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+🐱‍💻 Projects:
+portfolio                1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   35.91 %
+Unknown Project          1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   33.10 %
+nvim                     41 mins             █████░░░░░░░░░░░░░░░░░░░░   19.22 %
+cui                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+gorlabs                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 ```
 
 
- Last Updated on 10/10/2024 12:37:22 UTC
+ Last Updated on 07/10/2024 12:38:37 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
