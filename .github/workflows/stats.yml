@@ -2,11 +2,11 @@ name: Update stats
 
 on:
   workflow_dispatch:
-    schedule:
-      - cron: "0 11 * * *" # every 24 hours
-    push:
-      branches:
-        - master
+  schedule:
+    - cron: "0 11 * * *" # every 24 hours
+  push:
+    branches:
+      - master
 
 jobs:
   publish:
