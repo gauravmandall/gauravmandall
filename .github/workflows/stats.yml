@@ -1,11 +1,12 @@
 name: Update stats
 
 on:
-  schedule:
-    - cron: "0 11 * * *" # every 24 hours
-  push:
-    branches:
-      - master
+  workflow_dispatch:
+    schedule:
+      - cron: "0 11 * * *" # every 24 hours
+    push:
+      branches:
+        - master
 
 jobs:
   publish:
@@ -17,7 +18,7 @@ jobs:
       - name: Generate README.md
         uses: teoxoy/profile-readme-stats@master
         with:
-          token: ${{ secrets.USER_TOKEN }}
+          token: ${{ secrets.GH_TOKEN }}
       - name: Update README.md
         shell: bash
         run: |
