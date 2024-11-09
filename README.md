@@ -46,7 +46,7 @@ I'm **Gaurav**, a Rust enthusiast with a passion for open source and solid skill
 <br>
 
 
-Ever since I joined GitHub **4** years ago, I pushed **2222** commits, opened **19** issues, submitted **48** pull requests, received **19** stars across **74** personal projects, and contributed to **8** public repositories.
+Ever since I joined GitHub **4** years ago, I pushed **2223** commits, opened **19** issues, submitted **48** pull requests, received **19** stars across **74** personal projects, and contributed to **8** public repositories.
 
 <!--
   WARNING 🔔🚨🚨🚨🚨🚨🚨🚨🔔
@@ -92,11 +92,11 @@ Here is a list of my **personal projects**:
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/Gorlabscom/gorlabs/pull/13) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
-2. 💪 Opened PR [#13](https://github.com/Gorlabscom/gorlabs/pull/13) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
-3. 🎉 Merged PR [#12](https://github.com/Gorlabscom/gorlabs/pull/12) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
-4. 💪 Opened PR [#12](https://github.com/Gorlabscom/gorlabs/pull/12) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
-5. 🎉 Merged PR [#11](https://github.com/Gorlabscom/gorlabs/pull/11) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
+1. 🗣 Commented on [#1](https://github.com/Gorlabscom/gorlabs/issues/1#issuecomment-2206173876) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
+2. 🔒 Closed issue [#1](https://github.com/Gorlabscom/gorlabs/issues/1) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
+3. 🗣 Commented on [#2](https://github.com/Gorlabscom/gorlabs/pull/2#issuecomment-2206164876) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
+4. 🎉 Merged PR [#2](https://github.com/Gorlabscom/gorlabs/pull/2) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
+5. 🗣 Commented on [#1](https://github.com/Gorlabscom/gorlabs/issues/1#issuecomment-2205262416) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
