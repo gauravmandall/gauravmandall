@@ -46,7 +46,7 @@ I'm **Gaurav**, a Rust enthusiast with a passion for open source and solid skill
 <br>
 
 
-Ever since I joined GitHub **4** years ago, I pushed **2369** commits, opened **19** issues, submitted **49** pull requests, received **20** stars across **76** personal projects, and contributed to **6** public repositories.
+Ever since I joined GitHub **4** years ago, I pushed **2373** commits, opened **19** issues, submitted **49** pull requests, received **20** stars across **76** personal projects, and contributed to **6** public repositories.
 
 <!--
   WARNING 🔔🚨🚨🚨🚨🚨🚨🚨🔔
@@ -92,57 +92,62 @@ Here is a list of my **personal projects**:
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/Gorlabscom/gorlabs/pull/14) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
-2. 💪 Opened PR [#14](https://github.com/Gorlabscom/gorlabs/pull/14) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
-3. 🗣 Commented on [#238](https://github.com/haydenbleasel/next-forge/issues/238#issuecomment-2488219177) in [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge)
-4. 🗣 Commented on [#2764](https://github.com/archlinux/archinstall/issues/2764#issuecomment-2464910433) in [archlinux/archinstall](https://github.com/archlinux/archinstall)
-5. 🗣 Commented on [#2764](https://github.com/archlinux/archinstall/issues/2764#issuecomment-2464884712) in [archlinux/archinstall](https://github.com/archlinux/archinstall)
+1. 🗣 Commented on [#1](https://github.com/Gorlabscom/gorlabs/issues/1#issuecomment-2206173876) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
+2. 🔒 Closed issue [#1](https://github.com/Gorlabscom/gorlabs/issues/1) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
+3. 🗣 Commented on [#2](https://github.com/Gorlabscom/gorlabs/pull/2#issuecomment-2206164876) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
+4. 🎉 Merged PR [#2](https://github.com/Gorlabscom/gorlabs/pull/2) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
+5. 🗣 Commented on [#1](https://github.com/Gorlabscom/gorlabs/issues/1#issuecomment-2205262416) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2014%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.0%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.4%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 1.3 MB Used in GitHub's Storage 
- > 
-> 🏆 1,794 Contributions in the Year 2024
- > 
+> 📦 1.2 MB Used in GitHub's Storage
+ >
+> 🏆 1,467 Contributions in the Year 2024
+ >
 > 💼 Opted to Hire
- > 
-> 📜 153 Public Repositories 
- > 
-> 🔑 35 Private Repositories 
- > 
-**I'm a Night 🦉** 
+ >
+> 📜 118 Public Repositories
+ >
+> 🔑 31 Private Repositories
+ >
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                94 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-🌆 Daytime                308 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-🌃 Evening                316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-🌙 Night                  1659 commits        █████████████████░░░░░░░░   69.79 % 
+🌞 Morning                87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+🌆 Daytime                146 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+🌃 Evening                218 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 %
+🌙 Night                  1624 commits        ████████████████████░░░░░   78.27 %
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-No Activity Tracked This Week
+💬 Programming Languages:
+YAML                     52 mins             ██████░░░░░░░░░░░░░░░░░░░   24.23 %
+Lua                      43 mins             █████░░░░░░░░░░░░░░░░░░░░   20.19 %
+Other                    37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 %
+Markdown                 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
+TypeScript               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
 
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
+🐱‍💻 Projects:
+portfolio                1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   35.91 %
+Unknown Project          1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   33.10 %
+nvim                     41 mins             █████░░░░░░░░░░░░░░░░░░░░   19.22 %
+cui                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+gorlabs                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 ```
 
 
- Last Updated on 21/12/2024 12:18:05 UTC
+ Last Updated on 07/10/2024 12:38:37 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
