@@ -92,10 +92,10 @@ Here is a list of my **personal projects**:
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Gorlabscom/gorlabs/issues/1#issuecomment-2206173876) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
-2. 🔒 Closed issue [#1](https://github.com/Gorlabscom/gorlabs/issues/1) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
-3. 🗣 Commented on [#2](https://github.com/Gorlabscom/gorlabs/pull/2#issuecomment-2206164876) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
-4. 🎉 Merged PR [#2](https://github.com/Gorlabscom/gorlabs/pull/2) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
+1. 💪 Opened PR [#24](https://github.com/insidesherpa/shiptivitas-2/pull/24) in [insidesherpa/shiptivitas-2](https://github.com/insidesherpa/shiptivitas-2)
+2. 💪 Opened PR [#75](https://github.com/insidesherpa/shiptivitas-1/pull/75) in [insidesherpa/shiptivitas-1](https://github.com/insidesherpa/shiptivitas-1)
+3. 🎉 Merged PR [#14](https://github.com/Gorlabscom/gorlabs/pull/14) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
+4. 💪 Opened PR [#14](https://github.com/Gorlabscom/gorlabs/pull/14) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
 5. 🗣 Commented on [#1](https://github.com/Gorlabscom/gorlabs/issues/1#issuecomment-2205262416) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
 <!--END_SECTION:activity-->
 
