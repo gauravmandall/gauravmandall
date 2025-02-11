@@ -155,12 +155,10 @@ gorlabs                  4 mins              █░░░░░░░░░░�
 
 ## :zap: My Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gauravmandall&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
-
   <br/>
-  <!-- <p align="center"><a href="https://github.com/gauravmandall/github-readme-streak-stats">
-          <img src="https://streak-stats.demolab.com/?user=gauravmandall&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
-  </a></p> -->
+  <p align="center"><a href="https://github.com/gauravmandall/github-readme-streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravmandall&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
+  </a></p>
   <br/>
     <a href="https://github.com/gauravmandall/github-readme-stats"><img alt="Gaurav Mandal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gauravmandall&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   <a href="https://github.com/gauravmandall/github-readme-stats"><img alt="Gaurav Mandal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravmandall&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
