@@ -40,7 +40,7 @@
 
 I'm **Gaurav**, a Rust enthusiast with a passion for open source and solid skills in TypeScript. I'm currently a beginner in Rust.
 
-[![pgp](https://img.shields.io/badge/pgp-BFBE0103C5E01D9D-313131?style=flat&labelColor=545454&color=313131)](https://github.com/gauravmandall.gpg) [![views](https://komarev.com/ghpvc/?username=gauravmandall&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/gauravmandall)
+[![pgp](https://img.shields.io/badge/pgp-0xE9139BC7A1FA4294-313131?style=flat&labelColor=545454&color=313131)](https://github.com/gauravmandall.gpg) [![views](https://komarev.com/ghpvc/?username=gauravmandall&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/gauravmandall)
 
 
 <br>
@@ -65,7 +65,7 @@ Here is a list of my **personal projects**:
 
 | **Rust**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | **Bash**, **Typescript**, **Go**, **Python**, **Kotlin**, **Java**, **JS**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| • [flx](https://github.com/gauravmandall/flx) - A highly secure file sharing app (upcoming)<br>• [shelly](https://github.com/gauravmandall/shelly) - A TUI for tracking cryptocurrencies like a boss (upcoming)<br>• [vsnode](https://github.com/gauravmandall/vsnode) - Fast and intuitive text editor (upcoming)<br>• [gpgtui](https://github.com/gauravmandall/gpgtui) - Terminal user interface for GnuPG (upcoming)<br>• [solcon](https://github.com/gauravmandall/solcon) - A minimal blockchain dex (upcoming) | • [gorlabs](https://github.com/gorlabscom/gorlabs) - A microsaas platform to ship fast.<br>• [vid-paywall](https://github.com/gauravmandall/vid-paywall) - Video paywall system to prevent piracy.<br>• [saasmd](https://www.npmjs.com/package/saasmd) - A TUI for kickstart the NextJs projects.<br>• [nimble-search](github.com/gauravmandall/nimble-search) - An AI search engine inspired by perplexity (upcoming)<br>• [geohot](https://github.com/gauravmandall/geohot) - A web3 wallet generator using bip39 and Mnemonics.<br>• [cctvAi](https://github.com/gauravmandall/cctvAi) - AI camera app to detect humans and record them.<br>• [fullstack-auth](https://github.com/gauravmandall/fullstack-auth) - An extended authentication project for auth.js<br> |
+| • [flx](https://github.com/gauravmandall/flx) - A highly secure file sharing app (upcoming)<br>• [shelly](https://github.com/gauravmandall/shelly) - A TUI for tracking cryptocurrencies like a boss (upcoming)<br>• [vsnode](https://github.com/gauravmandall/vsnode) - Fast and intuitive text editor (upcoming)<br>• [gpgtui](https://github.com/gauravmandall/gpgtui) - Terminal user interface for GnuPG (upcoming)<br>• [solcon](https://github.com/gauravmandall/solcon) - A minimal blockchain dex (upcoming) | • [scraper](https://scraper.grvx.dev) - Complex Scraping automation system that runs on edge.<br>• [portfolio](https://grvx.dev) - Dynamic portfolio with custom mdx components and SEO.<br>• [gorlabs](https://github.com/gorlabscom/gorlabs) - A on-chain and off-chain anomaly detection system for solana blockchain.<br>• [Extn](https://github.com/gauravmandall/extn) - File format converter.<br>• [saasmd](https://www.npmjs.com/package/saasmd) - A TUI for kickstart the Turborepo SAAS projects.<br>• [nimble-search](https://nimble-search.vercel.app) - An AI search engine inspired by perplexity<br>• [geohot](https://github.com/gauravmandall/geohot) - A web3 wallet generator using bip39 and Mnemonics.<br>• [cctvAi](https://github.com/gauravmandall/cctvAi) - AI camera app to detect humans and record them.<br>• [Codex](https://github.com/gauravmandall/codex) - My first AI application written before ChatGPT 3.0 launch<br> |
 
 
 
@@ -153,6 +153,17 @@ gorlabs                  4 mins              █░░░░░░░░░░�
 <!--START_SECTION:waka-simple-->
 <!--END_SECTION:waka-simple-->
 
+## :zap: My Github Stats
+
+  <br/>
+  <p align="center"><a href="https://github.com/gauravmandall/github-readme-streak-stats">
+          <img src="https://streak-stats.demolab.com?user=gauravmandall&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
+  </a></p>
+  <br/>
+    <a href="https://github.com/gauravmandall/github-readme-stats"><img alt="Gaurav Mandal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gauravmandall&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <a href="https://github.com/gauravmandall/github-readme-stats"><img alt="Gaurav Mandal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravmandall&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <br/>
+
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
@@ -160,13 +171,18 @@ For all my latest updates, follow me on [X](https://x.com/gauravmandall). If you
 
 If you want to support my work, consider [sponsoring me](https://github.com/sponsors/gauravmandall)! 💖
 
-**~** [_gauravmandall.vercel.app_](https://gauravmandall.vercel.app/)
+**~** [_grvx.dev_](https://grvx.dev/)
 
 
 [![activity graph](https://gaurav-github-readme-activity-graph.vercel.app/graph?username=gauravmandall&theme=tokyo-night&custom_title=Gaurav's%20Activity%20Graph&hide_border=true)](https://github.com/gauravmandall/github-github-readme-activity-graph)
 
+
+[![An image of @gauravmandall's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gauravmandall)](https://holopin.io/@gauravmandall)
+
+<!-- </br> -->
+
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=gauravmandall&theme=onedark&column=-1" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=gauravmandall&theme=oldie&column=-1&no-frame=true" />
 </p>
 
 Liked it ?
