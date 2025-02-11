@@ -152,11 +152,11 @@ No Activity Tracked This Week
 
   <br/>
   <p align="center"><a href="https://github.com/gauravmandall">
-          <img src="https://streak-stats.demolab.com?user=gauravmandall&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+          <img src="https://streak-stats.demolab.com?user=gauravmandall&theme=tokyonight&hide_border=true&background=00000000" alt="" />
   </a></p>
   <br/>
-    <a href="https://github.com/gauravmandall/github-readme-stats"><img alt="Gaurav Mandal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gauravmandall&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <a href="https://github.com/gauravmandall/github-readme-stats"><img alt="Gaurav Mandal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravmandall&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <a href="https://github.com/gauravmandall/github-readme-stats"><img alt="Gaurav Mandal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gauravmandall&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/gauravmandall/github-readme-stats"><img alt="Gaurav Mandal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravmandall&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
