@@ -152,7 +152,7 @@ No Activity Tracked This Week
 
   <br/>
   <p align="center"><a href="https://github.com/gauravmandall/github-readme-streak-stats">
-          <img src="https://streak-stats.demolab.com?user=%gauravmandall&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
+          <img src="https://streak-stats.demolab.com/?user=gauravmandall&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" />
   </a></p>
   <br/>
     <a href="https://github.com/gauravmandall/github-readme-stats"><img alt="Gaurav Mandal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gauravmandall&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
