@@ -92,11 +92,11 @@ Here is a list of my **personal projects**:
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#40](https://github.com/Gorlabscom/gorlabs/pull/40) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
-2. 💪 Opened PR [#40](https://github.com/Gorlabscom/gorlabs/pull/40) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
-3. 🎉 Merged PR [#39](https://github.com/Gorlabscom/gorlabs/pull/39) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
-4. 💪 Opened PR [#39](https://github.com/Gorlabscom/gorlabs/pull/39) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
-5. 🎉 Merged PR [#36](https://github.com/Gorlabscom/gorlabs/pull/36) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
+1. 🎉 Merged PR [#44](https://github.com/Gorlabscom/gorlabs/pull/44) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
+2. 💪 Opened PR [#44](https://github.com/Gorlabscom/gorlabs/pull/44) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
+3. 🎉 Merged PR [#43](https://github.com/Gorlabscom/gorlabs/pull/43) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
+4. 💪 Opened PR [#43](https://github.com/Gorlabscom/gorlabs/pull/43) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
+5. 🎉 Merged PR [#42](https://github.com/Gorlabscom/gorlabs/pull/42) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
