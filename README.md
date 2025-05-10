@@ -102,13 +102,13 @@ Here is a list of my **personal projects**:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2051%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 698 Contributions in the Year 2025
+> 🏆 699 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -119,10 +119,10 @@ Here is a list of my **personal projects**:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                174 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-🌆 Daytime                763 commits         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+🌞 Morning                172 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+🌆 Daytime                764 commits         █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
 🌃 Evening                793 commits         █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-🌙 Night                  2022 commits        █████████████░░░░░░░░░░░░   53.89 % 
+🌙 Night                  2022 commits        █████████████░░░░░░░░░░░░   53.91 % 
 ```
 
 
@@ -142,7 +142,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 10/05/2025 11:48:01 UTC
+ Last Updated on 10/05/2025 12:18:48 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
