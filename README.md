@@ -100,54 +100,49 @@ Here is a list of my **personal projects**:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2056%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.10%20million%20lines%20of%20code-blue?style=flat)
 
-**🐱 My GitHub Data**
+**🐱 My GitHub Data** 
 
-> 📦 1.2 MB Used in GitHub's Storage
- >
-> 🏆 1,467 Contributions in the Year 2024
- >
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 308 Contributions in the Year 2026
+ > 
 > 💼 Opted to Hire
- >
-> 📜 118 Public Repositories
- >
-> 🔑 31 Private Repositories
- >
-**I'm a Night 🦉**
+ > 
+> 📜 239 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-🌆 Daytime                146 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-🌃 Evening                218 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 %
-🌙 Night                  1624 commits        ████████████████████░░░░░   78.27 %
+🌞 Morning                338 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+🌆 Daytime                1396 commits        ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+🌃 Evening                1163 commits        ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
+🌙 Night                  2172 commits        ███████████░░░░░░░░░░░░░░   42.85 % 
 ```
 
 
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages:
-YAML                     52 mins             ██████░░░░░░░░░░░░░░░░░░░   24.23 %
-Lua                      43 mins             █████░░░░░░░░░░░░░░░░░░░░   20.19 %
-Other                    37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 %
-Markdown                 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
-TypeScript               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
+💬 Programming Languages: 
+No Activity Tracked This Week
 
-🐱‍💻 Projects:
-portfolio                1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   35.91 %
-Unknown Project          1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   33.10 %
-nvim                     41 mins             █████░░░░░░░░░░░░░░░░░░░░   19.22 %
-cui                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 %
-gorlabs                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 07/10/2024 12:38:37 UTC
+ Last Updated on 28/03/2026 12:32:57 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
