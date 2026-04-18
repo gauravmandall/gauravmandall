@@ -46,7 +46,7 @@ I'm **Gaurav**, a Rust enthusiast with a passion for open source and solid skill
 <br>
 
 
-Ever since I joined GitHub **5** years ago, I pushed **2239** commits, opened **19** issues, submitted **79** pull requests, received **21** stars across **130** personal projects, and contributed to **9** public repositories.
+Ever since I joined GitHub **5** years ago, I pushed **2242** commits, opened **19** issues, submitted **79** pull requests, received **21** stars across **130** personal projects, and contributed to **9** public repositories.
 
 <!--
   WARNING 🔔🚨🚨🚨🚨🚨🚨🚨🔔
@@ -100,19 +100,54 @@ Here is a list of my **personal projects**:
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2014%20mins-blue)
 
-```txt
-From: 02 October 2024 - To: 16 April 2026
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.4%20million%20lines%20of%20code-blue)
 
-Total Time: 46 hrs 56 mins
+**🐱 My GitHub Data**
 
-TypeScript    28 hrs 53 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.56 %
-Other         4 hrs 9 mins    ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.87 %
-Markdown      3 hrs 47 mins   ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.09 %
-JSON          2 hrs 24 mins   ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.14 %
-Bash          1 hr 48 mins    ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.87 %
+> 📦 1.2 MB Used in GitHub's Storage
+ >
+> 🏆 1,467 Contributions in the Year 2024
+ >
+> 💼 Opted to Hire
+ >
+> 📜 118 Public Repositories
+ >
+> 🔑 31 Private Repositories
+ >
+**I'm a Night 🦉**
+
+```text
+🌞 Morning                87 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+🌆 Daytime                146 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+🌃 Evening                218 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 %
+🌙 Night                  1624 commits        ████████████████████░░░░░   78.27 %
 ```
 
+
+📊 **This Week I Spent My Time On**
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages:
+YAML                     52 mins             ██████░░░░░░░░░░░░░░░░░░░   24.23 %
+Lua                      43 mins             █████░░░░░░░░░░░░░░░░░░░░   20.19 %
+Other                    37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.59 %
+Markdown                 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 %
+TypeScript               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
+
+🐱‍💻 Projects:
+portfolio                1 hr 17 mins        █████████░░░░░░░░░░░░░░░░   35.91 %
+Unknown Project          1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   33.10 %
+nvim                     41 mins             █████░░░░░░░░░░░░░░░░░░░░   19.22 %
+cui                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+gorlabs                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+```
+
+
+ Last Updated on 07/10/2024 12:38:37 UTC
 <!--END_SECTION:waka-->
 
 <!--START_SECTION:waka-simple-->
