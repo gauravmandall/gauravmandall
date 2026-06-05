@@ -92,7 +92,7 @@ Here is a list of my **personal projects**:
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Gorlabscom/gorlabs/issues/1#issuecomment-2206173876) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
+1. 🎉 Merged PR [#5680](https://github.com/fineanmol/Hacktoberfest2025/pull/5680) in [fineanmol/Hacktoberfest2025](https://github.com/fineanmol/Hacktoberfest2025)
 2. 🔒 Closed issue [#1](https://github.com/Gorlabscom/gorlabs/issues/1) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
 3. 🗣 Commented on [#2](https://github.com/Gorlabscom/gorlabs/pull/2#issuecomment-2206164876) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
 4. 🎉 Merged PR [#2](https://github.com/Gorlabscom/gorlabs/pull/2) in [Gorlabscom/gorlabs](https://github.com/Gorlabscom/gorlabs)
